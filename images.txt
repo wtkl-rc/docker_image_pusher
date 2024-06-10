@@ -4,3 +4,4 @@ zendesk/maxwell
 elasticsearch:7.9.2
 nginx
 mysql
+openjdk:8
